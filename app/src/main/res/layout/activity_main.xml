@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/teal_200"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card_view"
+android:layout_marginTop="115dp"
+        android:layout_gravity="center"
+        android:layout_width="250dp"
+        android:layout_height="400dp"
+        app:cardCornerRadius="4dp">
+
+
+        <LinearLayout
+            android:layout_marginTop="125dp"
+            android:layout_width="wrap_content"
+
+            android:layout_height="wrap_content"
+            android:layout_margin="30dp"
+
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/info_text1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="begin" />
+
+            <TextView
+                android:id="@+id/info_text4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="test cardview1" />
+
+
+
+            <TextView
+                android:id="@+id/info_text4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="test cardviewxxxxxxx" />
+
+            <TextView
+                android:id="@+id/info_text5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+
+
+            <TextView
+                android:id="@+id/info_text4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="test cardviewxxxxxxx" />
+
+            <TextView
+                android:id="@+id/info_text5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+
+            <TextView
+                android:id="@+id/info_text6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="test cardviewxxxxxxx" />
+
+            <TextView
+                android:id="@+id/info_text7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+
+            <TextView
+                android:id="@+id/info_text8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="test cardviewxxxxxxx" />
+
+            <TextView
+                android:id="@+id/info_text9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+
+            <TextView
+                android:id="@+id/info_text10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="test cardviewxxxxxxx" />
+
+            <TextView
+                android:id="@+id/info_text11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+
+            <TextView
+                android:id="@+id/info_text1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+
+            <TextView
+                android:id="@+id/info_text2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="test cardviewxxxxxxx" />
+
+
+            <TextView
+                android:id="@+id/info_text3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+
+            <TextView
+                android:id="@+id/info_text4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="test cardviewxxxxxxx" />
+
+            <TextView
+                android:id="@+id/info_text5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+
+            <TextView
+                android:id="@+id/info_text3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+
+            <TextView
+                android:id="@+id/info_text6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="test cardviewxxxxxxx" />
+
+            <TextView
+                android:id="@+id/info_text7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+
+            <TextView
+                android:id="@+id/info_text8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="test cardviewxxxxxxx" />
+
+            <TextView
+                android:id="@+id/info_text9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+
+            <TextView
+                android:id="@+id/info_text10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="test cardviewxxxxxxx" />
+
+            <TextView
+                android:id="@+id/info_text11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+
+            <TextView
+                android:id="@+id/info_text12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="test cardviewxxxxxxx" />
+
+            <TextView
+                android:id="@+id/info_text1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+
+            <TextView
+                android:id="@+id/info_text2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="test cardviewxxxxxxx" />
+
+
+            <TextView
+                android:id="@+id/info_text3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+
+            <TextView
+                android:id="@+id/info_text4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="test cardviewxxxxxxx" />
+
+            <TextView
+                android:id="@+id/info_text5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+
+            <TextView
+                android:id="@+id/info_text6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="test cardviewxxxxxxx" />
+
+            <TextView
+                android:id="@+id/info_text7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+
+            <TextView
+                android:id="@+id/info_text8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="test cardviewxxxxxxx" />
+
+            <TextView
+                android:id="@+id/info_text9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+
+            <TextView
+                android:id="@+id/info_text10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="test cardviewxxxxxxx" />
+
+            <TextView
+                android:id="@+id/info_text11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+
+            <TextView
+                android:id="@+id/info_text9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+
+            <TextView
+                android:id="@+id/info_text10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="test cardviewxxxxxxx" />
+
+            <TextView
+                android:id="@+id/info_text11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+
+
+            <TextView
+                android:id="@+id/info_text11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+
+            <TextView
+                android:id="@+id/info_text11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+
+            <TextView
+                android:id="@+id/info_text11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+
+
+            <TextView
+                android:id="@+id/info_text11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+
+            <TextView
+                android:id="@+id/info_text11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+            <TextView
+                android:id="@+id/info_text11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+
+
+            <TextView
+                android:id="@+id/info_text11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+
+            <TextView
+                android:id="@+id/info_text11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+            <TextView
+                android:id="@+id/info_text11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cardviewyyyyyyyyyyyyyy" />
+
+            <TextView
+                android:id="@+id/info_text12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="the end" />
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+</ScrollView>
